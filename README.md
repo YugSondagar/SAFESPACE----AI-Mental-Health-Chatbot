@@ -1,0 +1,1 @@
+SafeSpace a AI CHatbot that helps user to deal with mental illness and has calling facilities using twilio when ever user is facing sucidial or self harm thoughts
