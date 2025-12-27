@@ -1,0 +1,10 @@
+streamlit
+fastapi
+uvicorn
+pydantic
+requests
+ollama
+langchain==0.1.4
+twilio
+langgraph
+langchain-groq
